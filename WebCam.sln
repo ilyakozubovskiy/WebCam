@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebCamConsumer", "WebCamConsumer\WebCamConsumer.csproj", "{54089560-3E80-4342-B9F2-1D13FB6EA99D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCamProducer", "WebCamProducer\WebCamProducer.csproj", "{32A6B1D1-5BA3-4D44-AB56-F8BCAB098236}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54089560-3E80-4342-B9F2-1D13FB6EA99D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54089560-3E80-4342-B9F2-1D13FB6EA99D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54089560-3E80-4342-B9F2-1D13FB6EA99D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54089560-3E80-4342-B9F2-1D13FB6EA99D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32A6B1D1-5BA3-4D44-AB56-F8BCAB098236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32A6B1D1-5BA3-4D44-AB56-F8BCAB098236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32A6B1D1-5BA3-4D44-AB56-F8BCAB098236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32A6B1D1-5BA3-4D44-AB56-F8BCAB098236}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC2785D4-535E-41BE-BCEA-8C06BEE16A7D}
+	EndGlobalSection
+EndGlobal
